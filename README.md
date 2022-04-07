@@ -1,4 +1,4 @@
-# harmful-signals
+# Trackers Signals
 Do GPS Trackers Transmit Signals And If So, Is It Harmful?
 
 <a href="https://www.paj-gps.us/https://www.paj-gps.us/">GPS technology</a> has come a long way since its introduction by the US defense department for its official purposes. Today we have dedicated GPS devices that can help us make our day-to-day chores easier and more effective. They come in different sizes, shapes, and for different purposes. GPS wearables are becoming more popular as they come in handy and fashionable forms of wristwatches and pendants that also do not interrupt the fitness activities we are engaged in. But are they really safe? As these devices spend most of their time stuck to our bodies, shouldn't we need to be careful about what kind of energy they are giving out? Readout.
